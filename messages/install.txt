@@ -1,0 +1,20 @@
+Ruby Completions
+================
+
+Thank you for installing Ruby completions. This is aa simple Ruby package for sublime text that provides completion suggestions mostly for methods and when importing(requiring) packages/modules.
+
+
+Usage
+=====
+
+Typing normally shows method suggestions. Pressing tab will complete it.
+To use completion features when requiring a gem/package, type `R-` followed by the name and press `ENTER` or `TAB`.
+
+	For example, to require 'cmath', type R-cmath and press enter or tab and the require would be completed.
+
+For more information, visit <https://github.com/tushortz/Ruby-Completions> or contack me on taiwo.kareem36@gmail.com
+
+Contributing
+============
+
+All contributions are welcome, create a pull request after forking the project from https://github.com/tushortz/Ruby-Completions and I'll get in touch.
