@@ -1,7 +1,7 @@
 Ruby Completions
 ================
 
-Thank you for installing Ruby completions. This is aa simple Ruby package for sublime text that provides completion suggestions mostly for methods and when importing(requiring) packages/modules.
+Thank you for installing Ruby completions. This is a simple Ruby package for sublime text that provides completion suggestions mostly for methods and when importing(requiring) packages/modules.
 
 
 Usage
@@ -12,7 +12,7 @@ To use completion features when requiring a gem/package, type `R-` followed by t
 
 	For example, to require 'cmath', type R-cmath and press enter or tab and the require would be completed.
 
-For more information, visit <https://github.com/tushortz/Ruby-Completions> or contack me on taiwo.kareem36@gmail.com
+For more information, visit <https://github.com/tushortz/Ruby-Completions> or contact me at taiwo.kareem36@gmail.com.
 
 Contributing
 ============
